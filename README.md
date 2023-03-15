@@ -1,2 +1,1 @@
-# atv_curriculo
-Atividade currículo
+# João Pedro Lopes
